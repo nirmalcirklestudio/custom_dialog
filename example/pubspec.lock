@@ -50,7 +50,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.3"
-  custom_dialog_testing_package:
+  custom_dialog_testing_package_nirmal:
     dependency: "direct main"
     description:
       path: ".."

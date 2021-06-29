@@ -1,4 +1,4 @@
-import 'package:custom_dialog_testing_package/custom_dialog_testing_package.dart';
+import 'package:custom_dialog_testing_package_nirmal/custom_dialog_testing_package_nirmal.dart';
 import 'package:flutter/material.dart';
 
 void main() {

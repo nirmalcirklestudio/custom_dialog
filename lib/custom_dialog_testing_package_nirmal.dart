@@ -1,4 +1,4 @@
-library custom_dialog_testing_package;
+library custom_dialog_testing_package_nirmal;
 
 import 'package:flutter/material.dart';
 

@@ -28,7 +28,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  custom_dialog_testing_package:
+  custom_dialog_testing_package_nirmal:
     path: ../
 
 dev_dependencies:
